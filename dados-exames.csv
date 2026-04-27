@@ -1,0 +1,119 @@
+Data,Material,Categoria,Subcategoria,Exame,Valor,Unidade,Referência Mínima,Referência Máxima,Laboratório
+23/02/2026,Sangue,Metabólito,Minerais,Ácido Úrico,"8,4",mg/dL,"3,5","7,2",Sabin
+23/02/2026,Sangue,Proteínas Séricas,,Albumina,"4,3",g/dL,"3,5","5,2",Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Bactérias,Raras,,,,Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Basófilos,0,/mm³,0,220,Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Bastonetes,0,/mm³,0,550,Sabin
+23/02/2026,Sangue,Eletrólitos e Minenais,Eletrólitos,Bicarbonato,19,mEq/L,20,31,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Bilirrubinas,Negativo,,,,Sabin
+23/02/2026,Sangue,Eletrólitos e Minenais,Minerais,Cálcio,"8,8",mg/dL,"8,6","10,3",Sabin
+23/02/2026,Sangue,Metabolismo do Ferro,Capacidade de Fixação do Ferro,Capacidade Latente de Ligação de Ferro,233,µg/dL,125,345,Sabin
+23/02/2026,Sangue,Metabolismo do Ferro,Capacidade de Fixação do Ferro,Capacidade Total de Ligação de Ferro,291,µg/dL,250,450,Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Células Epteliais,3,,,,Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,CHCM,"35,6",g/dL,30,"36,5",Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Cilindros,Ausentes,,,,Sabin
+23/02/2026,Sangue,Lipidograma,,Colesterol HDL,33,mg/dL,40,,Sabin
+08/08/2024,Sangue,Lipidograma,,Colesterol HDL,36,mg/dL,40,,Sabin
+11/08/2025,Sangue,Lipidograma,,Colesterol HDL,34,mg/dL,40,,Sabin
+23/02/2026,Sangue,Lipidograma,,Colesterol LDL,90,mg/dL,,110,Sabin
+08/08/2024,Sangue,Lipidograma,,Colesterol LDL,72,mg/dL,,110,
+11/08/2025,Sangue,Lipidograma,,Colesterol LDL,70,mg/dL,,110,
+23/02/2026,Sangue,Lipidograma,,Colesterol Não HDL,109,mg/dL,,145,Sabin
+08/08/2024,Sangue,Lipidograma,,Colesterol Não HDL,94,mg/dL,,145,
+11/08/2025,Sangue,Lipidograma,,Colesterol Não HDL,104,mg/dL,,145,
+23/02/2026,Sangue,Lipidograma,,Colesterol Total,142,mg/dL,,200,Sabin
+09/05/2024,Sangue,Lipidograma,,Colesterol Total,221,mg/dL,,200,Sabin
+08/08/2024,Sangue,Lipidograma,,Colesterol Total,130,mg/dL,,200,Sabin
+11/08/2025,Sangue,Lipidograma,,Colesterol Total,138,mg/dL,,200,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Corpos Cetônicos,Negativo,,,,Sabin
+23/02/2026,Sangue,Função Renal,,Creatinina Sérica,"1,59",mg/dL,"0,7","1,3",Sabin
+08/08/2024,Sangue,Função Renal,,Creatinina Sérica,"1,47",mg/dL,"0,7","1,3",Sabin
+21/05/2025,Sangue,Função Renal,,Creatinina Sérica,"1,7",mg/dL,"0,7","1,3",Sabin
+17/06/2025,Sangue,Função Renal,,Creatinina Sérica,"1,76",mg/dL,"0,7","1,3",Sabin
+11/08/2025,Sangue,Função Renal,,Creatinina Sérica,"1,49",mg/dL,"0,7","1,3",Sabin
+12/09/2025,Sangue,Função Renal,,Creatinina Sérica,"1,91",mg/dL,"0,7","1,3",Sabin
+23/02/2026,Urina,RAC - Relação Albumina / Creatinina (isolada),,Creatinina Urinária,56,mg/dL,,,Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Cristais,Ausentes,,,,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Densidade,1,,"1,005","1,03",Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Eosinófilos,113,/mm³,0,550,Sabin
+23/02/2026,Sangue,Função Renal,,eTFG,57,mL/min/1.73m²,90,,Sabin
+23/02/2026,Sangue,Metabolismo do Ferro,,Ferritina,72,ng/mL,34,500,Sabin
+08/08/2024,Sangue,Metabolismo do Ferro,,Ferritina,"164,7",ng/mL,34,500,
+11/08/2025,Sangue,Metabolismo do Ferro,,Ferritina,60,ng/mL,34,500,Sabin
+23/02/2026,Sangue,Metabolismo do Ferro,,Ferro Sérico,58,µg/dL,33,193,Sabin
+08/08/2024,Sangue,Metabolismo do Ferro,,Ferro Sérico,73,µg/dL,33,193,Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Filamentos de Muco,Ausentes,,,,Sabin
+23/02/2026,Sangue,Função Hepática e Óssea,,Fosfatase Alcalina,75,U/L,40,130,Sabin
+23/02/2026,Sangue,Eletrólitos e Minenais,Minerais,Fósforo,"4,4",mg/dL,"2,5","4,5",Sabin
+23/02/2026,Sangue,Metabolismo da Glicose,,Glicemia Média Estimada,"110,3",mg/dL,,,Sabin
+23/02/2026,Sangue,Metabolismo da Glicose,,Glicose Sérica,94,mg/dL,70,99,Sabin
+09/05/2024,Sangue,Metabolismo da Glicose,,Glicose Sérica,86,mg/dL,70,99,Sabin
+08/08/2024,Sangue,Metabolismo da Glicose,,Glicose Sérica,83,mg/dL,70,99,Sabin
+21/05/2025,Sangue,Metabolismo da Glicose,,Glicose Sérica,88,mg/dL,70,99,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Glicose Urinária,2000,mg/dL,,,Sabin
+23/02/2026,Sangue,Proteínas Séricas,,Globulina,"2,8",g/dL,"2,3","3,5",Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,HCM,"28,6",pg,"26,8","32,9",Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,Hemácias,"5,63",milhões/mm³,"4,5","6,1",Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Hemácias,5,,,,Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,Hematócrito,"45,2",%,36,54,Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,Hemoglobina,"16,1",g/dL,13,"16,5",Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Hemoglobina,"0,75",,,,Sabin
+23/02/2026,Sangue,Metabolismo da Glicose,,Hemoglobina Glicada -HbA1c,"5,5",%,,"5,7",Sabin
+09/05/2024,Sangue,Metabolismo da Glicose,,Hemoglobina Glicada -HbA1c,"5,3",%,,"5,7",Sabin
+08/08/2024,Sangue,Metabolismo da Glicose,,Hemoglobina Glicada -HbA1c,"5,3",%,,"5,7",Sabin
+23/02/2026,Sangue,Metabolismo do Ferro,Capacidade de Fixação do Ferro,Indice de Saturação de Transferrina,20,%,16,50,Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Leucócitos,5640,/mm³,3600,11000,Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Leucócitos,2,,,,Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Linfócitos,1466,/mm³,740,5500,Sabin
+23/02/2026,Sangue,Eletrólitos e Minenais,Minerais,Magnésio,"2,1",mg/dL,"1,6","2,6",Sabin
+23/02/2026,Urina,RAC - Relação Albumina / Creatinina (isolada),,Microalbuminúria,"57,05",mg/dL,,,Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Monócitos,282,/mm³,37,1500,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Nitritos,0,,,,Sabin
+23/02/2026,Urina,Rotina de Urina,Sedimentoscopia,Outros Elementos,Ausentes,,,,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,PH,5,,"4,5","7,5",Sabin
+23/02/2026,Sangue,Hemograma,Série Plaquetária,Plaquetas,140,x10³/mm³,130,450,Sabin
+23/02/2026,Sangue,Eletrólitos e Minenais,Eletrólitos,Potássio,"4,3",mEq/L,"3,5","5,1",Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Proteínas,15,mg/dL,,,Sabin
+23/02/2026,Sangue,Proteínas Séricas,,Proteínas Totais,"7,1",g/dL,"6,4","8,3",Sabin
+23/02/2026,Sangue,Metabolismo Ósseo,Hormônios,PTH - Paratormônio,"18,2",pg/mL,"17,3","74,1",Sabin
+23/02/2026,Urina,RAC - Relação Albumina / Creatinina (isolada),,RAC,"101,88",mg/g,,30,Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,RDW,"14,2",%,11,16,Sabin
+23/02/2026,Sangue,Proteínas Séricas,,Relação Albumina/Globulina,"1,5",,"0,9",2,Sabin
+23/02/2026,Sangue,Hemograma,Leucograma,Segmentados,3779,/mm³,1480,7700,Sabin
+23/02/2026,Sangue,Eletrólitos e Minenais,Eletrólitos,Sódio,141,mEq/L,136,145,Sabin
+23/02/2026,Sangue,Lipidograma,,Triglicerídeos,95,mg/dL,,150,Sabin
+09/05/2024,Sangue,Lipidograma,,Triglicerídeos,105,mg/dL,,150,Sabin
+08/08/2024,Sangue,Lipidograma,,Triglicerídeos,140,mg/dL,,150,Sabin
+11/08/2025,Sangue,Lipidograma,,Triglicerídeos,242,mg/dL,,150,Sabin
+23/02/2026,Sangue,Função Renal,,Ureia,47,mg/dL,17,43,Sabin
+26/06/2024,Sangue,Função Renal,,Ureia,69,mg/dL,17,43,Sabin
+08/08/2024,Sangue,Função Renal,,Ureia,42,mg/dL,17,43,Sabin
+21/05/2025,Sangue,Função Renal,,Ureia,86,mg/dL,17,43,Sabin
+17/06/2025,Sangue,Função Renal,,Ureia,46,mg/dL,17,43,Sabin
+11/08/2025,Sangue,Função Renal,,Ureia,45,mg/dL,17,43,Sabin
+12/09/2025,Sangue,Função Renal,,Ureia,50,mg/dL,17,43,Sabin
+23/02/2026,Urina,Rotina de Urina,Bioquímica,Urobilinogênio,0,,,,Sabin
+23/02/2026,Sangue,Hemograma,Eritograma,VCM,"80,3",fl,80,98,Sabin
+23/02/2026,Sangue,Metabolismo Ósseo,Vitaminas,Vitamina D3 25-Hidroxi,29,ng/mL,30,100,Sabin
+23/02/2026,Sangue,Hemograma,Série Plaquetária,VMP,"9,3",fl,"6,8","12,6",Sabin
+08/08/2024,Urina,RAC - Relação Albumina / Creatinina (isolada),,Microalbuminúria,"63,7",mg/L,,,Sabin
+11/08/2025,Urina,RAC - Relação Albumina / Creatinina (isolada),,Microalbuminúria,250,mg/L,,,Sabin
+12/09/2025,Urina,RAC - Relação Albumina / Creatinina (isolada),,Microalbuminúria,137,mg/L,,,Sabin
+11/08/2025,Urina,RAC - Relação Albumina / Creatinina (isolada),,Creatinina Urinária,48,mg/dL,,,Sabin
+12/09/2025,Urina,RAC - Relação Albumina / Creatinina (isolada),,Creatinina Urinária,77,mg/dL,,,Sabin
+27/06/2024,Urina,RAC - Relação Albumina / Creatinina (isolada),,RAC,"878,08",mg/g,,30,Sabin
+08/08/2024,Urina,RAC - Relação Albumina / Creatinina (isolada),,RAC,245,mg/g,,30,Sabin
+11/08/2025,Urina,RAC - Relação Albumina / Creatinina (isolada),,RAC,"520,83",mg/g,,30,Sabin
+12/09/2025,Urina,RAC - Relação Albumina / Creatinina (isolada),,RAC,"177,92",mg/g,,30,Sabin
+08/08/2024,Sangue,,,Ácido Úrico,"8,6",mg/dL,"3,5","7,2",Sabin
+11/08/2025,Sangue,Eletrólitos e Minenais,Minerais,Magnésio,"1,8",mg/dL,"1,6","2,6",Sabin
+11/08/2025,Sangue,Eletrólitos e Minenais,Minerais,Fósforo,"4,9",mg/dL,"2,5","4,5",Sabin
+08/08/2024,Sangue,Eletrólitos e Minenais,Minerais,Cálcio,9,mg/dL,"8,6","10,3",Sabin
+11/08/2025,Sangue,Eletrólitos e Minenais,Minerais,Cálcio,9,mg/dL,"8,6","10,3",Sabin
+08/08/2024,Sangue,Função Hepática e Óssea,,Fosfatase Alcalina,82,U/L,40,130,Sabin
+11/08/2025,Sangue,Função Hepática e Óssea,,Fosfatase Alcalina,81,U/L,40,130,Sabin
+09/05/2024,Sangue,Metabolismo Ósseo,Vitaminas,Vitamina D3 25-Hidroxi,36,ng/mL,30,100,Sabin
+08/08/2024,Sangue,Metabolismo Ósseo,Vitaminas,Vitamina D3 25-Hidroxi,29,ng/mL,30,100,Sabin
+11/08/2025,Sangue,Metabolismo Ósseo,Vitaminas,Vitamina D3 25-Hidroxi,25,ng/mL,30,100,Sabin
+08/08/2024,Sangue,Metabolismo Ósseo,Hormônios,PTH - Paratormônio,"21,7",pg/mL,"17,3","74,1",Sabin
+11/08/2025,Sangue,Metabolismo Ósseo,Hormônios,PTH - Paratormônio,"24,5",pg/mL,"17,3","74,1",Sabin

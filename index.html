@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Exames</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body data-theme="escuro">
+  <header class="header">
+    <div class="header-top">
+      <h1>Dashboard de Exames</h1>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Alternar tema claro/escuro">
+        <span class="theme-toggle-label">Tema</span>
+        <span class="theme-toggle-switch" aria-hidden="true">
+          <span class="theme-toggle-thumb"></span>
+        </span>
+      </button>
+    </div>
+    <p class="subtitle">Acompanhamento dos seus exames laboratoriais</p>
+  </header>
+
+  <main class="container">
+    <section class="resumo" id="resumo">
+      <h2>Resumo</h2>
+      <div class="cards">
+        <div class="card">
+          <span class="card-label">Total de exames</span>
+          <span class="card-value" id="total-exames">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Categorias</span>
+          <span class="card-value" id="total-categorias">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Atenção!</span>
+          <span class="card-value card-alerta" id="fora-referencia">—</span>
+        </div>
+        <div class="card">
+          <span class="card-label">Útimo Exame</span>
+          <span class="card-value card-data" id="data-exame">—</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="graficos">
+      <h2>Gráficos</h2>
+      <div class="chart-evolucao-wrapper chart-wrapper chart-wide">
+        <div class="chart-evolucao-header">
+          <label for="exame-evolucao">Exame:</label>
+          <select id="exame-evolucao" aria-label="Selecionar exame para evolução">
+            <!-- Preenchido via JavaScript -->
+          </select>
+        </div>
+        <div class="chart-evolucao-canvas">
+          <canvas id="chart-evolucao" aria-label="Evolução do exame ao longo do tempo"></canvas>
+        </div>
+      </div>
+      <div class="chart-categoria-wrapper chart-wrapper chart-wide">
+        <div class="chart-evolucao-header">
+          <label for="categoria-grafico">Exames por categoria:</label>
+          <select id="categoria-grafico" aria-label="Selecionar categoria para ver todos os exames">
+            <!-- Preenchido via JavaScript -->
+          </select>
+        </div>
+        <div class="chart-evolucao-canvas">
+          <canvas id="chart-por-categoria" aria-label="Resultados dos exames da categoria"></canvas>
+        </div>
+      </div>
+    </section>
+
+    <section class="tabela-section">
+      <h2>Registros</h2>
+      <div class="tabela-filtros" id="tabela-filtros">
+        <span class="tabela-filtros-label">Filtrar por categoria:</span>
+        <div class="tabela-filtros-checkboxes" id="tabela-filtros-checkboxes">
+          <!-- Preenchido via JavaScript -->
+        </div>
+      </div>
+      <div class="table-wrapper">
+        <table class="tabela-dados" id="tabela-dados">
+          <thead>
+            <tr>
+              <th class="th-sortable" data-sort="Data" tabindex="0">Data <span class="sort-icon" aria-hidden="true"></span></th>
+              <th class="th-sortable" data-sort="Categoria" tabindex="0">Categoria <span class="sort-icon" aria-hidden="true"></span></th>
+              <th class="th-sortable" data-sort="Exame" tabindex="0">Exame <span class="sort-icon" aria-hidden="true"></span></th>
+              <th class="th-sortable" data-sort="Valor" tabindex="0">Valor <span class="sort-icon" aria-hidden="true"></span></th>
+              <th class="th-sortable" data-sort="Unidade" tabindex="0">Unidade <span class="sort-icon" aria-hidden="true"></span></th>
+              <th class="th-sortable" data-sort="Referencia" tabindex="0">Referência <span class="sort-icon" aria-hidden="true"></span></th>
+              <th class="th-sortable" data-sort="Status" tabindex="0">Status <span class="sort-icon" aria-hidden="true"></span></th>
+            </tr>
+          </thead>
+          <tbody id="tabela-body">
+            <!-- Preenchido via JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Dados carregados de <code>dados-exames.csv</code>. Use um servidor local para visualizar.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
